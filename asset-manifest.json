@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Gaurav86388/baseapparel.git/static/css/main.d9b22ff4.css",
-    "main.js": "/Gaurav86388/baseapparel.git/static/js/main.2b68d204.js",
-    "static/media/picture.png": "/Gaurav86388/baseapparel.git/static/media/picture.b00e1f42bad7805df525.png",
-    "index.html": "/Gaurav86388/baseapparel.git/index.html",
-    "main.d9b22ff4.css.map": "/Gaurav86388/baseapparel.git/static/css/main.d9b22ff4.css.map",
-    "main.2b68d204.js.map": "/Gaurav86388/baseapparel.git/static/js/main.2b68d204.js.map"
+    "main.css": "/baseapparel/static/css/main.40c58cc3.css",
+    "main.js": "/baseapparel/static/js/main.2b68d204.js",
+    "static/media/picture.png": "/baseapparel/static/media/picture.b00e1f42bad7805df525.png",
+    "index.html": "/baseapparel/index.html",
+    "main.40c58cc3.css.map": "/baseapparel/static/css/main.40c58cc3.css.map",
+    "main.2b68d204.js.map": "/baseapparel/static/js/main.2b68d204.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9b22ff4.css",
+    "static/css/main.40c58cc3.css",
     "static/js/main.2b68d204.js"
   ]
 }
