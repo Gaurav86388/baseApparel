@@ -76,7 +76,7 @@ header{
 .container .right{
     width: 100%;
     height: 315px;
-    background-image: url('..//public/picture.png');
+    background-image: url('picture.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
